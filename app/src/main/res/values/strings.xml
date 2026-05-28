@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OceanX</string>
+    <string name="my_orders">My Orders</string>
+    <string name="orders_subtitle">View your completed trips here. You can\ndownload invoices or quickly book the same order again.</string>
+    <string name="search_hint">Search by Order ID / Location</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="tab_all">All Orders</string>
+    <string name="tab_completed">Completed</string>
+    <string name="tab_cancelled">Cancelled</string>
+    <string name="tab_booked">Booked Again</string>
+    <string name="info_message">यहाँ आपके सभी पिछले ऑर्डर दिखाए गए हैं।\nआप इनवॉइस डाउनलोड कर सकते हैं या उसी पते पर दोबारा ऑर्डर कर सकते हैं।</string>
+    <string name="invoice">Invoice</string>
+    <string name="book_again">Book Again</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_orders">Orders</string>
+    <string name="nav_payments">Payments</string>
+    <string name="nav_account">Account</string>
+    <string name="help">Help</string>
+    <string name="status_cancelled">CANCELLED</string>
+    <string name="status_completed">COMPLETED</string>
+</resources>
