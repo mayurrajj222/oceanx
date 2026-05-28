@@ -107,7 +107,7 @@
                         android:layout_marginStart="8dp"
                         android:background="@null"
                         android:hint="@string/search_hint"
-                        android:hintTextColor="@color/text_hint"
+                        android:textColorHint="@color/text_hint"
                         android:textColor="@color/text_primary"
                         android:textSize="13sp"
                         android:singleLine="true"
